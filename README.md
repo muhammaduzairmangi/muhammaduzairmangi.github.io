@@ -23,15 +23,13 @@
 
 ## About Me
 
-I'm a Computer Science graduate from The Shaikh Ayaz University (SAUS), Shikarpur. I build things at the intersection of AI, mobile development, and social impact — from singer booking apps to carbon trackers to fake skill detection systems.
-
-I care about making AI useful for real problems, especially in contexts like Pakistan where the technology often isn't built with us in mind.
+I'm a Computer Science graduate from The Shaikh Ayaz University Shikarpur. I build things at the intersection of AI, mobile development, and social impact. I care about making AI useful for real problems, especially in contexts like Pakistan where the technology often isn't built with us in mind.
 
 **Currently:**
-- 🏫 Developer at **TSAUS** — building the university portal, ERP, and admission module
-- 🌱 Co-founder of the **Digital Youth Leadership Programme (DYLP)**
-- 🎓 Preparing for **graduate school** in AI/ML (2026)
-- 🔬 Research interests: Generative AI · Multimodal Learning · NLP for South Asian languages · Trusted AI
+-  Developer at **TSAUS** — building the university portal, ERP, and admission module
+-  Co-founder of the **Digital Youth Leadership Programme (DYLP)**
+-  Preparing for **graduate school** in AI/ML (2026)
+-  Research interests: Generative AI · Multimodal Learning · NLP for South Asian languages · Trusted AI
 
 ---
 **Languages**
