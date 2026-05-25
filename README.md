@@ -187,14 +187,12 @@ I'm a Computer Science graduate from The Shaikh Ayaz University Shikarpur. I bui
 
 ---
 
+
 ## Research Interests
 
-```text
-Generative AI             ████████████░░░░   Strong
-Multimodal Learning       ████████░░░░░░░░   Active
-Trusted / Safe AI         ██████░░░░░░░░░░   Growing
-Climate × AI              ████████░░░░░░░░   Active
-```
+<div align="center">
+  <img src="research-interests.svg" alt="Research Interests"/>
+</div>
 
 ---
 
